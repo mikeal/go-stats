@@ -1,0 +1,17 @@
+{
+  "name": "go-stats",
+  "version": "0.1.0",
+  "description": "",
+  "main": "scrape-godoc.js",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "level": "^1.3.0",
+    "request": "^2.64.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
+  "license": "ISC"
+}
