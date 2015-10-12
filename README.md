@@ -2,7 +2,7 @@
 
 For a little while now I've been bothered by the GoDoc numbers reported on Module Counts.
 
-Other ecosystems, no matter what size they are or how fast they are growing, exhibit fairly stable numbers while GoDoc's are very erratic. You can see what I mean by look at the last year's worth of data.
+Other ecosystems, no matter what size they are or how fast they are growing, exhibit fairly stable numbers while GoDoc's are very erratic. You can see what I mean by looking at the last year's worth of data.
 
 ![Module Counts](/screenshot.png)
 
