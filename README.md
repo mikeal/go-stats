@@ -14,7 +14,7 @@ I decided to scrape all the data I could off of GoDocs and the first thing I not
 
 *Example:* the first link in GoDoc's index is to the "camlistatic" command "0f.io/camlistatic", which contains a single package, "0f.io/camlistatic/fusetohttp," which is the next link in the index. It makes perfect sense for the documentation to be split in to two pages but these are one package, one being the module you can import and the other being the accompanying command line application, but are being reported as two.
 
-When I ran my scraper 94090 packages were reported, meaning there were 94090 in the site index. Of those 13 had html that wasn't parsable by cheerio which I was using for parsing (no idea what's up there). Of the remaining links, 90069 were actual packages and 4008 were some kind of application.
+When I ran my scraper 94090 packages were reported, meaning there were 94090 links in the site index. Of those 13 had html that wasn't parsable by cheerio which I was using for parsing (no idea what's up there). Of the remaining links, 90069 were actual packages and 4008 were some kind of application.
 
 Within each actual package you can find an external link to where the files are hosted. I was curious where people tended to host their Go packages so I reduced the domain names found in the packages.
 
