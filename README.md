@@ -44,3 +44,6 @@ Still, there's a few things the Go community should probably do.
 2. Remove GoDocs from Module Counts. No number is probably better than a number that is reporting almost 4x the reality.
 
 This may all sound like I'm putting Go down but there's a lot to be excited about. It's definitely growing at a good rate. It's almost entirely on GitHub which is a huge advantage over languages that aren't and it also means that if we were to process some GitHub data we'd have *very* good metrics on its growth rate and the number of people engaged in Go's open source ecosystem. And most importantly, Go has already escaped the lower tiers of open source ecosystem adoption and is in no way in danger of being ignored outside of a small vertical like Haskell and R (not putting them down, they're just not interested in being broadly used).
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/mikeal/go-stats.svg)](https://greenkeeper.io/)
